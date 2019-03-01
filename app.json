@@ -1,0 +1,8 @@
+{
+  "name": "goproxy-parent",
+  "description": "deploy goproxy-parent to Heroku.",
+  "keywords": ["goproxy"],
+  "website": "https://github.com/shotgunner/goproxy-parent",
+  "repository": "https://github.com/shotgunner/goproxy-parent",
+  "stack": "container"
+}
